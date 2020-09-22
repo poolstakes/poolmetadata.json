@@ -6,3 +6,5 @@ cat > poolMetaData.json << EOF
 "homepage": "https://github.com/poolstakes/poolmetadata.json"
 }
 EOF
+
+HASH:   7ba78d18c0d277d411f7ca5deebf771f78608c1d95c77dfbac1d281aa1198042
