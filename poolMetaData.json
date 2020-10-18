@@ -1,8 +1,8 @@
 cat > poolMetaData.json << EOF
 {
-"name": "PoolStakes",
-"description": "PoolStakes",
-"ticker": "POOL",
-"homepage": "https://github.com/poolstakes/poolmetadata.json"
+"name": "DARPA Syndicate",
+"description": "Decentralized Applied Research Protocols Algorithms (DARPA).  DARPA Syndicate is a mission support activity of RND Stake Pool (ticker RND).",
+"ticker": "DARPA",
+"homepage": "https://DARPAsyndicate.org"
 }
-
+EOF
